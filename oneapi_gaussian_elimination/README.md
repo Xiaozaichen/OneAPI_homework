@@ -1,5 +1,5 @@
-   ¹¹½¨
+
    chmod +x q run_buffer_gpu.sh run_buffer_cpu.sh run_usm.sh
-   ÔËÐÐ
-   ./q run_buffer_gpu.sh »òÕßrun_buffer_cpu.sh »òÕßrun_usm.sh
+
+   ./q run_buffer_gpu.sh æˆ–è€… run_buffer_cpu.sh æˆ–è€… run_usm.sh
    
